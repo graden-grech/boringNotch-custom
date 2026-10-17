@@ -3,6 +3,26 @@
     <channel>
         <title>Boring Notch</title>
         <item>
+            <title>2.8.4</title>
+            <pubDate>Sat, 17 Oct 2026 12:32:24 -0400</pubDate>
+            <link>https://github.com/graden-grech/boringNotch-custom/releases/tag/v2.8.4</link>
+            <sparkle:version>287</sparkle:version>
+            <sparkle:shortVersionString>2.8.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# boringNotch Custom 2.8.4
+
+- No account required: Continue Without an Account skips account setup. Sign-in, account pages, passkeys and cloud sync stay disabled; existing saved credentials and cloud settings are not deleted.
+- A release check keeps unfinished account features disabled. The earlier account preview remains withdrawn.
+- The optional lock-screen Home dropdown shows only a lock inside the expanded menu, with no closed-notch badge or explanatory text.
+- External-display visibility can be turned off, with dependent controls clearly disabled.
+- Lighter Settings surfaces and a clearer terminal symbol for AI activity.
+
+The lock-screen option remains experimental, off by default, and uses inherited private SkyLight integration rather than an official Apple extension. Development-signed with the existing app/helper identity and update key; not notarized. Requires Apple silicon and macOS 14 or later; native Liquid Glass requires macOS 26. Fresh-device onboarding, other macOS versions, full VoiceOver coverage, multiple displays/DisplayLink, rapid lock transitions and permission revocation remain unverified.
+]]></description>
+            <enclosure url="https://github.com/graden-grech/boringNotch-custom/releases/download/v2.8.4/boringNotch-custom.zip" length="21818606" type="application/octet-stream" sparkle:edSignature="iqGP2pnk240QGMIfbjyhe1jtnCNl6Mq0HeRgJkMMJaNy61/8sWAD9OHBV0632nG2rXOmMXWVaFNHYdHcFWBZCw=="/>
+        </item>
+        <item>
             <title>2.8.3</title>
             <pubDate>Wed, 14 Oct 2026 12:01:56 -0400</pubDate>
             <link>https://github.com/graden-grech/boringNotch-custom/releases/tag/v2.8.3</link>
